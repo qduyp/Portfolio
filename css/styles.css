@@ -7,7 +7,7 @@ body{
 
  h1{
    margin: 0;
-  color:  #66BFBF;
+  color:  #FF731D;
   font-size: 5rem;
   font-family: 'Dancing Script', cursive;
   line-height: 1;
@@ -15,14 +15,14 @@ body{
  }
 
 h2 {
-  color:  #66BFBF;
+  color:  #FF731D;
   font-family: 'Oxygen', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
 }
 
 h3{
-  color: #11999E;
+  color: #FF731D;
   margin: 0;
 }
 
@@ -61,7 +61,7 @@ span{
  p{
    margin: 10px auto;
    font-family: 'BhuTuka Expanded One', cursive;
-   color: #40514E;
+   color: black;
  }
 
 .middle-container{
@@ -130,18 +130,18 @@ span{
 }
 
 .bottom-container{
-  background-color: #66BFBF;
+  background-color: #30e3cb;
   text-align: center;
   padding: 30px ;
 }
 
 .footer-p{
-  color: #EAF6F6;
+  color: black;
   margin: 20px;
 }
 
 a{
-  color: #11999E;
+  color: #FF731D;
   text-decoration: none;
 }
 
