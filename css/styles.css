@@ -87,14 +87,14 @@ span{
   border-radius: 50%;
   float: left;
   margin-right: 30px;
-  width: 25%;
+  width: 150px;
 }
 .right-pic{
   border-style: solid;
   border-radius: 50%;
   float: right;
   margin-right: 30px;
-  width: 25%;
+  width: 150px;
 }
 
 .contact-p{
